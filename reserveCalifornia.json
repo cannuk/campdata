@@ -6,6 +6,11 @@
       "display": "Refugio"
     },
     {
+      "name": "Gaviota SB",
+      "id": "gaviota",
+      "display": "Gaviota (Santa Barbra)"
+    },
+    {
       "name": "Big Basin Redwoods SP",
       "id": "big_basin",
       "display": "Big Basin"
