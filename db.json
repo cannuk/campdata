@@ -1412,6 +1412,23 @@
           "favorites": ""
         }
       ]
+    },
+    {
+      "campground": "jalama",
+      "dates": [
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/13/2020 4:27:57 PM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/13/2020 4:25:14 PM",
+          "favorites": ""
+        }
+      ]
     }
   ]
 }
