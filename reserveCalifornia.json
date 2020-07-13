@@ -1,20 +1,74 @@
 {
   "campgrounds": [
-    { "name": "Refugio SB", "id": "refugio" },
-    { "name": "Big Basin Redwoods SP", "id": "big_basin" },
-    { "name": "Henry Cowell Redwoods SP", "id": "henry_cowell" },
-    { "name": "Pfeiffer Big Sur SP", "id": "pfeiffer" },
-    { "name": "Butano SP", "id": "butano" },
-    { "name": "Portola Redwoods SP", "id": "portola_redwoods" },
-    { "name": "Emma Wood SB", "id": "emma_wood" },
-    { "name": "Carpinteria SB", "id": "carpinteria" },
-    { "name": "Del Norte Coast Redwood SP Mill Creek Campground", "id": "del_norte_mill_creek" },
-    { "name": "Jedediah Smith Redwoods SP", "id": "jedidiah" },
-    { "name": "Carpinteria SB", "id": "carpinteria" },
-    { "name": "El Capitan SB", "id": "el_capitan" },
-    { "name": "Morro Bay SP", "id": "morro_bay" },
-    { "name": "Clear Lake SP", "id": "clear_lake" },
-    { "name": "MacKerricher SP", "id": "mac_cheese" },
-    { "name": "Del Norte Coast Redwood SP Mill Creek Campground", "id": "mill_creek" }
+    {
+      "name": "Refugio SB",
+      "id": "refugio",
+      "display": "Refugio"
+    },
+    {
+      "name": "Big Basin Redwoods SP",
+      "id": "big_basin",
+      "display": "Big Basin"
+    },
+    {
+      "name": "Henry Cowell Redwoods SP",
+      "id": "henry_cowell",
+      "display": "Henry Cowell"
+    },
+    {
+      "name": "Pfeiffer Big Sur SP",
+      "id": "pfeiffer",
+      "display": "Pfieffer (Big Sur)"
+    },
+    {
+      "name": "Butano SP",
+      "id": "butano",
+      "display": "Butano Beach"
+    },
+    {
+      "name": "Portola Redwoods SP",
+      "id": "portola_redwoods",
+      "display": "Portolla Redwoods"
+    },
+    {
+      "name": "Emma Wood SB",
+      "id": "emma_wood",
+      "display": "Emma Wood"
+    },
+    {
+      "name": "Carpinteria SB",
+      "id": "carpinteria",
+      "display": "Carpinteria"
+    },
+    {
+      "name": "Jedediah Smith Redwoods SP",
+      "id": "jedidiah",
+      "display": "Jeddiah Redwoods"
+    },
+    {
+      "name": "El Capitan SB",
+      "id": "el_capitan",
+      "display": "El Capitan"
+    },
+    {
+      "name": "Morro Bay SP",
+      "id": "morro_bay",
+      "display": "Morro Bay"
+    },
+    {
+      "name": "Clear Lake SP",
+      "id": "clear_lake",
+      "display": "Clear Lake"
+    },
+    {
+      "name": "MacKerricher SP",
+      "id": "mac_cheese",
+      "display": "Mac and Cheese + Ketchup"
+    },
+    {
+      "name": "Del Norte Coast Redwood SP Mill Creek Campground",
+      "id": "mill_creek",
+      "display": "Mill Creek"
+    }
   ]
 }
