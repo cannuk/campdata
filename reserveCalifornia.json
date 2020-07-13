@@ -1,22 +1,5 @@
 {
   "campgrounds": [
-<<<<<<< HEAD
-    { "name": "Refugio SB", "id": "refugio" },
-    { "name": "Big Basin Redwoods SP", "id": "big_basin" },
-    { "name": "Henry Cowell Redwoods SP", "id": "henry_cowell" },
-    { "name": "Pfeiffer Big Sur SP", "id": "pfeiffer" },
-    { "name": "Butano SP", "id": "butano" },
-    { "name": "Portola Redwoods SP", "id": "portola_redwoods" },
-    { "name": "Emma Wood SB", "id": "emma_wood" },
-    { "name": "Carpinteria SB", "id": "carpinteria" },
-    { "name": "Jedediah Smith Redwoods SP", "id": "jedidiah" },
-    { "name": "Carpinteria SB", "id": "carpinteria" },
-    { "name": "El Capitan SB", "id": "el_capitan" },
-    { "name": "Morro Bay SP", "id": "morro_bay" },
-    { "name": "Clear Lake SP", "id": "clear_lake" },
-    { "name": "MacKerricher SP", "id": "mac_cheese" },
-    { "name": "Del Norte Coast Redwood SP Mill Creek Campground", "id": "mill_creek" }
-=======
     {
       "name": "Refugio SB",
       "id": "refugio",
@@ -87,6 +70,5 @@
       "id": "mill_creek",
       "display": "Mill Creek"
     }
->>>>>>> 42b4445481961165fe7b442c48571a40c9b4c377
   ]
 }
