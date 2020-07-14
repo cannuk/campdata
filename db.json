@@ -278,7 +278,7 @@
         {
           "date": "07/17/2020_07/19/2020",
           "spotsAvailable": 0,
-          "lastUpdated": "7/13/2020 4:15:28 PM",
+          "lastUpdated": "7/13/2020 5:15:36 PM",
           "favorites": ""
         }
       ]
@@ -633,7 +633,7 @@
         {
           "date": "07/17/2020_07/19/2020",
           "spotsAvailable": 0,
-          "lastUpdated": "7/13/2020 3:17:04 PM",
+          "lastUpdated": "7/13/2020 5:19:37 PM",
           "favorites": ""
         }
       ]
@@ -1420,12 +1420,60 @@
           "date": "07/17/2020_07/19/2020",
           "spotsAvailable": 0,
           "favorites": "",
-          "lastUpdated": "7/13/2020 4:27:57 PM"
+          "lastUpdated": "7/13/2020 5:16:20 PM"
         },
         {
           "date": "07/21/2020_07/23/2020",
           "spotsAvailable": 0,
-          "lastUpdated": "7/13/2020 4:25:14 PM",
+          "lastUpdated": "7/13/2020 5:16:45 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/13/2020 5:17:10 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/13/2020 5:17:38 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/13/2020 5:18:02 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/13/2020 5:18:27 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/13/2020 5:18:52 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/13/2020 4:43:01 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/13/2020 4:43:14 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/13/2020 4:43:28 PM",
           "favorites": ""
         }
       ]
