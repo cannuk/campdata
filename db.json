@@ -1,0 +1,2004 @@
+{
+  "campgrounds": [
+    {
+      "id": "hobson",
+      "favorites": [
+        {
+          "spotId": 240,
+          "spotNumber": 27
+        },
+        {
+          "spotId": 239,
+          "spotNumber": 26
+        },
+        {
+          "spotId": 238,
+          "spotNumber": 25
+        },
+        {
+          "spotId": 237,
+          "spotNumber": 24
+        },
+        {
+          "spotId": 236,
+          "spotNumber": 23
+        },
+        {
+          "spotId": 235,
+          "spotNumber": 22
+        },
+        {
+          "spotId": 234,
+          "spotNumber": 21
+        },
+        {
+          "spotId": 233,
+          "spotNumber": 20
+        },
+        {
+          "spotId": 229,
+          "spotNumber": 16
+        },
+        {
+          "spotId": 228,
+          "spotNumber": 15
+        },
+        {
+          "spotId": 227,
+          "spotNumber": 14
+        },
+        {
+          "spotId": 231,
+          "spotNumber": 18
+        },
+        {
+          "spotId": 232,
+          "spotNumber": 19
+        },
+        {
+          "spotId": 230,
+          "spotNumber": 17
+        }
+      ]
+    },
+    {
+      "id": "faria",
+      "favorites": [
+        {
+          "spotId": 63,
+          "spotNumber": 10
+        },
+        {
+          "spotId": 64,
+          "spotNumber": 11
+        },
+        {
+          "spotId": 65,
+          "spotNumber": 12
+        },
+        {
+          "spotId": 66,
+          "spotNumber": 13
+        },
+        {
+          "spotId": 67,
+          "spotNumber": 14
+        },
+        {
+          "spotId": 68,
+          "spotNumber": 15
+        },
+        {
+          "spotId": 69,
+          "spotNumber": 16
+        },
+        {
+          "spotId": 70,
+          "spotNumber": 17
+        },
+        {
+          "spotId": 71,
+          "spotNumber": 18
+        },
+        {
+          "spotId": 72,
+          "spotNumber": 19
+        },
+        {
+          "spotId": 73,
+          "spotNumber": 20
+        },
+        {
+          "spotId": 74,
+          "spotNumber": 21
+        },
+        {
+          "spotId": 75,
+          "spotNumber": 22
+        },
+        {
+          "spotId": 76,
+          "spotNumber": 23
+        },
+        {
+          "spotId": 77,
+          "spotNumber": 24
+        },
+        {
+          "spotId": 78,
+          "spotNumber": 25
+        },
+        {
+          "spotId": 79,
+          "spotNumber": 26
+        },
+        {
+          "spotId": 80,
+          "spotNumber": 27
+        },
+        {
+          "spotId": 81,
+          "spotNumber": 28
+        },
+        {
+          "spotId": 82,
+          "spotNumber": 29
+        },
+        {
+          "spotId": 83,
+          "spotNumber": 30
+        },
+        {
+          "spotId": 84,
+          "spotNumber": 31
+        },
+        {
+          "spotId": 85,
+          "spotNumber": 32
+        }
+      ]
+    }
+  ],
+  "dates": [
+    {
+      "arrival": "07/17/2020",
+      "departure": "07/19/2020",
+      "length": 2
+    },
+    {
+      "arrival": "07/21/2020",
+      "departure": "07/23/2020",
+      "length": 2
+    },
+    {
+      "arrival": "07/24/2020",
+      "departure": "07/26/2020",
+      "length": 3
+    },
+    {
+      "arrival": "07/31/2020",
+      "departure": "08/02/2020",
+      "length": 2
+    },
+    {
+      "arrival": "08/04/2020",
+      "departure": "08/07/2020",
+      "length": 2
+    },
+    {
+      "arrival": "08/07/2020",
+      "departure": "08/09/2020",
+      "length": 2
+    },
+    {
+      "arrival": "08/14/2020",
+      "departure": "08/16/2020",
+      "length": 2
+    },
+    {
+      "arrival": "08/18/2020",
+      "departure": "08/21/2020",
+      "length": 2
+    },
+    {
+      "arrival": "08/21/2020",
+      "departure": "08/23/2020",
+      "length": 2
+    },
+    {
+      "arrival": "08/28/2020",
+      "departure": "08/30/2020",
+      "length": 2
+    }
+  ],
+  "campground_dates": [
+    {
+      "campground": "refugio",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 10:41:43 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:47:39 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:42:30 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:47:57 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:48:07 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:48:17 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:48:27 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:48:35 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:48:45 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:48:53 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:47:29 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:47:48 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "big_basin",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 10:42:47 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:50:43 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:28:09 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:51:00 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:51:09 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:51:17 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:51:27 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:51:36 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:51:45 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:51:54 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:50:34 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:50:51 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "henry_cowell",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 10:43:52 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:45:40 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:30:28 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:45:58 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:46:08 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:46:16 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:46:24 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:46:33 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:46:42 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:46:51 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:45:32 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:45:49 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "pfeiffer",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 10:45:00 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:47:09 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:31:44 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:25:34 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:25:41 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:25:48 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:25:55 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:26:02 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:26:09 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:26:16 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:47:00 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:47:18 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "butano",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 10:46:05 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:26:29 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:33:04 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:26:43 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:26:50 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:26:57 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:27:03 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:27:10 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:27:17 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:27:23 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:26:22 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:26:35 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "hobson",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 10:17:31 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:23:42 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:24:05 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:24:30 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:24:54 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:25:16 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:25:38 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:26:00 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:26:23 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:26:45 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:23:17 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:23:55 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "faria",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 10:17:50 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:23:53 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:24:08 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:24:43 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:25:05 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:25:28 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:25:49 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:26:12 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:26:34 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:26:56 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:23:30 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:24:18 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "portola_redwoods",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 10:47:09 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:27:37 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:34:18 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:27:51 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:27:57 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:28:04 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:28:11 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:28:18 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:28:25 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:28:32 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:27:30 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:27:44 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "emma_wood",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 10:48:15 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:28:45 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:35:30 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:28:58 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:29:05 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:29:12 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:29:18 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:29:25 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:29:32 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:29:39 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:28:38 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:28:52 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "carpinteria",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 10:52:52 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:29:52 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:36:40 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 8:29:48 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 8:29:55 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 8:30:01 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 8:30:09 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 8:30:20 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 8:30:31 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 8:30:42 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:29:45 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 10:29:59 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "jedidiah",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 10:51:46 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:51:03 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:37:52 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:51:22 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:51:31 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:51:38 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:51:47 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:51:56 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:52:05 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:52:15 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 8:30:51 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:51:13 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "el_capitan",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 11:00:30 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:52:34 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:04:56 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:52:53 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:53:02 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:33:25 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:33:35 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:33:45 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:33:56 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:34:07 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:52:24 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:52:44 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "morro_bay",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 11:01:37 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:34:27 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:06:09 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:34:47 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:34:57 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:35:07 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:35:15 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:35:30 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:35:41 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:35:51 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:34:17 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:34:37 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "clear_lake",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 1,
+          "favorites": "",
+          "lastUpdated": "7/12/2020 11:02:48 AM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 59,
+          "lastUpdated": "7/17/2020 5:36:22 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 55,
+          "lastUpdated": "7/17/2020 12:07:42 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:36:42 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 65,
+          "lastUpdated": "7/17/2020 4:35:05 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 4:35:14 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 14,
+          "lastUpdated": "7/17/2020 4:35:27 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 97,
+          "lastUpdated": "7/17/2020 3:38:50 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 64,
+          "lastUpdated": "7/17/2020 3:39:06 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 84,
+          "lastUpdated": "7/17/2020 3:39:23 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:36:00 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 5:36:32 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "mac_cheese",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/11/2020 8:49:53 PM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:39:40 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:09:35 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:39:56 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:40:04 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:40:13 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:40:21 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:40:29 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:40:38 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:40:46 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:39:32 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:39:47 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "mill_creek",
+      "dates": [
+        {
+          "date": "07/17/2020_04/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/11/2020 8:51:12 PM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:41:04 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:10:51 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:41:22 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:41:31 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:41:40 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:41:49 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 25,
+          "lastUpdated": "7/17/2020 3:42:04 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 29,
+          "lastUpdated": "7/17/2020 3:42:18 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 59,
+          "lastUpdated": "7/17/2020 12:12:00 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:40:55 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 3:41:12 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "gaviota",
+      "dates": [
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/17/2020 11:49:02 PM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:49:11 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:43:43 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:49:31 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:49:40 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:49:49 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:49:58 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:50:07 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:50:16 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:50:24 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:49:22 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "jalama",
+      "dates": [
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/17/2020 11:20:58 PM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:21:11 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:39:39 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:21:37 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:21:51 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:22:03 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:22:17 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:22:32 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:22:46 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:23:00 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:21:24 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "ponderosa",
+      "dates": [
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": "0",
+          "favorites": "",
+          "lastUpdated": "7/17/2020 11:35:34 PM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:35:49 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 2:17:34 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:36:17 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:36:32 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:36:46 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:37:00 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": "1",
+          "lastUpdated": "7/17/2020 11:37:15 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": "1",
+          "lastUpdated": "7/17/2020 11:37:33 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": "1",
+          "lastUpdated": "7/17/2020 11:37:48 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:36:03 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "plaskett",
+      "dates": [
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": "0",
+          "favorites": "",
+          "lastUpdated": "7/17/2020 11:30:27 PM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:30:46 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 2:15:26 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:31:20 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:31:35 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:31:50 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:32:04 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:32:19 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:32:34 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:32:49 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:31:03 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "kirk_creek",
+      "dates": [
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": "0",
+          "favorites": "",
+          "lastUpdated": "7/17/2020 11:33:04 PM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:33:19 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 2:16:32 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:33:49 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:34:03 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:34:18 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:34:34 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:34:49 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:35:04 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:35:19 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": "0",
+          "lastUpdated": "7/17/2020 11:33:35 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "little_basin",
+      "dates": [
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/17/2020 11:52:03 PM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:52:12 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 2:29:16 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:52:30 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:52:39 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:52:48 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:52:58 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 5,
+          "lastUpdated": "7/17/2020 11:53:12 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:45:14 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:45:23 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/24/2020_07/26/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 11:52:20 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "leo_carillo",
+      "dates": [
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/17/2020 12:12:08 PM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:12:15 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:12:22 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:12:30 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:12:38 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:12:45 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:12:53 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:13:00 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:13:07 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:13:15 PM",
+          "favorites": ""
+        }
+      ]
+    },
+    {
+      "campground": "point_mugu",
+      "dates": [
+        {
+          "date": "07/17/2020_07/19/2020",
+          "spotsAvailable": 0,
+          "favorites": "",
+          "lastUpdated": "7/17/2020 12:13:22 PM"
+        },
+        {
+          "date": "07/21/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:13:30 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/20/2020_07/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:13:36 PM",
+          "favorites": ""
+        },
+        {
+          "date": "07/31/2020_08/02/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:13:44 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/04/2020_08/07/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:13:51 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/07/2020_08/09/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:13:59 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/14/2020_08/16/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:14:06 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/18/2020_08/21/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:14:14 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/21/2020_08/23/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:14:21 PM",
+          "favorites": ""
+        },
+        {
+          "date": "08/28/2020_08/30/2020",
+          "spotsAvailable": 0,
+          "lastUpdated": "7/17/2020 12:14:29 PM",
+          "favorites": ""
+        }
+      ]
+    }
+  ]
+}
