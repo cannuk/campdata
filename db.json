@@ -870,19 +870,25 @@
         {
           "date": "04/23/2021_04/25/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 11:28:16 PM",
+          "lastUpdated": "10/21/2020 12:23:43 AM",
           "favorites": ""
         },
         {
           "date": "04/28/2021_05/02/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 11:28:22 PM",
+          "lastUpdated": "10/21/2020 12:19:14 AM",
           "favorites": ""
         },
         {
           "date": "06/20/2021_06/22/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 11:28:28 PM",
+          "lastUpdated": "10/20/2020 11:55:08 PM",
+          "favorites": ""
+        },
+        {
+          "date": "04/09/2021_04/11/2021",
+          "spotsAvailable": 21,
+          "lastUpdated": "10/21/2020 12:30:29 AM",
           "favorites": ""
         }
       ]
@@ -1145,25 +1151,25 @@
         {
           "date": "04/09/2021_04/11/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 11:28:34 PM",
+          "lastUpdated": "10/21/2020 12:25:45 AM",
           "favorites": ""
         },
         {
           "date": "04/23/2021_04/25/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 11:28:40 PM",
+          "lastUpdated": "10/21/2020 12:25:51 AM",
           "favorites": ""
         },
         {
           "date": "04/28/2021_05/02/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 11:28:46 PM",
+          "lastUpdated": "10/20/2020 11:55:25 PM",
           "favorites": ""
         },
         {
           "date": "06/20/2021_06/22/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 11:13:56 PM",
+          "lastUpdated": "10/20/2020 11:55:31 PM",
           "favorites": ""
         }
       ]
@@ -1426,25 +1432,25 @@
         {
           "date": "04/09/2021_04/11/2021",
           "spotsAvailable": 5,
-          "lastUpdated": "10/20/2020 5:49:44 PM",
+          "lastUpdated": "10/20/2020 11:55:38 PM",
           "favorites": ""
         },
         {
           "date": "04/23/2021_04/25/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 5:49:53 PM",
+          "lastUpdated": "10/21/2020 12:29:03 AM",
           "favorites": ""
         },
         {
           "date": "04/28/2021_05/02/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 5:50:01 PM",
+          "lastUpdated": "10/21/2020 12:29:10 AM",
           "favorites": ""
         },
         {
           "date": "06/20/2021_06/22/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 5:50:10 PM",
+          "lastUpdated": "10/20/2020 11:55:55 PM",
           "favorites": ""
         }
       ]
@@ -2269,13 +2275,13 @@
         {
           "date": "04/09/2021_04/11/2021",
           "spotsAvailable": 3,
-          "lastUpdated": "10/20/2020 5:53:34 PM",
+          "lastUpdated": "10/20/2020 11:56:02 PM",
           "favorites": ""
         },
         {
           "date": "04/23/2021_04/25/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 5:53:43 PM",
+          "lastUpdated": "10/20/2020 11:56:09 PM",
           "favorites": ""
         },
         {
@@ -2550,7 +2556,7 @@
         {
           "date": "04/09/2021_04/11/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 5:57:13 PM",
+          "lastUpdated": "10/20/2020 11:58:34 PM",
           "favorites": ""
         },
         {
@@ -2837,7 +2843,7 @@
         {
           "date": "04/23/2021_04/25/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 6:02:05 PM",
+          "lastUpdated": "10/21/2020 12:02:48 AM",
           "favorites": ""
         },
         {
@@ -3118,7 +3124,7 @@
         {
           "date": "04/23/2021_04/25/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 6:05:34 PM",
+          "lastUpdated": "10/21/2020 12:06:00 AM",
           "favorites": ""
         },
         {
@@ -3130,7 +3136,7 @@
         {
           "date": "06/20/2021_06/22/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 6:05:51 PM",
+          "lastUpdated": "10/21/2020 12:07:28 AM",
           "favorites": ""
         }
       ]
@@ -3392,8 +3398,8 @@
         },
         {
           "date": "04/09/2021_04/11/2021",
-          "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 6:08:53 PM",
+          "spotsAvailable": 1,
+          "lastUpdated": "10/21/2020 12:07:35 AM",
           "favorites": ""
         },
         {
@@ -3405,13 +3411,13 @@
         {
           "date": "04/28/2021_05/02/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 6:09:11 PM",
+          "lastUpdated": "10/21/2020 12:08:40 AM",
           "favorites": ""
         },
         {
           "date": "06/20/2021_06/22/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 6:09:19 PM",
+          "lastUpdated": "10/21/2020 12:08:46 AM",
           "favorites": ""
         }
       ]
@@ -3674,25 +3680,25 @@
         {
           "date": "04/09/2021_04/11/2021",
           "spotsAvailable": 42,
-          "lastUpdated": "10/20/2020 6:14:09 PM",
+          "lastUpdated": "10/21/2020 12:08:55 AM",
           "favorites": ""
         },
         {
           "date": "04/23/2021_04/25/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 6:14:17 PM",
+          "lastUpdated": "10/21/2020 12:09:01 AM",
           "favorites": ""
         },
         {
           "date": "04/28/2021_05/02/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 6:14:25 PM",
+          "lastUpdated": "10/21/2020 12:09:07 AM",
           "favorites": ""
         },
         {
           "date": "06/20/2021_06/22/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 6:14:39 PM",
+          "lastUpdated": "10/21/2020 12:09:13 AM",
           "favorites": ""
         }
       ]
@@ -4248,13 +4254,13 @@
         {
           "date": "04/28/2021_05/02/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 3:29:03 PM",
+          "lastUpdated": "10/21/2020 12:15:36 AM",
           "favorites": ""
         },
         {
           "date": "06/20/2021_06/22/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 3:29:08 PM",
+          "lastUpdated": "10/21/2020 12:15:44 AM",
           "favorites": ""
         }
       ]
@@ -4517,7 +4523,7 @@
         {
           "date": "04/09/2021_04/11/2021",
           "spotsAvailable": 0,
-          "lastUpdated": "10/20/2020 3:32:12 PM",
+          "lastUpdated": "10/21/2020 12:15:52 AM",
           "favorites": ""
         },
         {
