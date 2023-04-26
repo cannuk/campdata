@@ -1,3 +1,399 @@
 {
-    "campground_dates": {}
+  "campground_dates": [
+    {
+      "campground": "hobson",
+      "dates": [
+        {
+          "date": "08/18/2023_08/20/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:00 PM"
+        },
+        {
+          "date": "08/11/2023_08/13/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:56 PM"
+        },
+        {
+          "date": "08/25/2023_08/27/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:04 PM"
+        },
+        {
+          "date": "09/01/2023_09/03/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:07 PM"
+        },
+        {
+          "date": "09/08/2023_09/10/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:11 PM"
+        },
+        {
+          "date": "09/15/2023_09/17/2023",
+          "spotsAvailable": 1,
+          "lastUpdated": "4/26/2023 2:24:15 PM"
+        },
+        {
+          "date": "09/29/2023_10/01/2023",
+          "spotsAvailable": 5,
+          "lastUpdated": "4/26/2023 2:24:22 PM"
+        },
+        {
+          "date": "09/22/2023_09/24/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:18 PM"
+        },
+        {
+          "date": "10/06/2023_10/08/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:26 PM"
+        },
+        {
+          "date": "10/13/2023_10/15/2023",
+          "spotsAvailable": 1,
+          "lastUpdated": "4/26/2023 2:24:29 PM"
+        },
+        {
+          "date": "10/20/2023_10/22/2023",
+          "spotsAvailable": 9,
+          "lastUpdated": "4/26/2023 2:24:33 PM"
+        },
+        {
+          "date": "04/28/2023_04/30/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:01 PM"
+        },
+        {
+          "date": "05/05/2023_05/07/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:05 PM"
+        },
+        {
+          "date": "05/12/2023_05/14/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:09 PM"
+        },
+        {
+          "date": "05/19/2023_05/21/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:12 PM"
+        },
+        {
+          "date": "05/26/2023_05/28/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:16 PM"
+        },
+        {
+          "date": "06/02/2023_06/04/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:20 PM"
+        },
+        {
+          "date": "06/09/2023_06/11/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:23 PM"
+        },
+        {
+          "date": "06/16/2023_06/18/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:27 PM"
+        },
+        {
+          "date": "06/23/2023_06/25/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:31 PM"
+        },
+        {
+          "date": "06/30/2023_07/02/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:34 PM"
+        },
+        {
+          "date": "07/07/2023_07/09/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:38 PM"
+        },
+        {
+          "date": "07/14/2023_07/16/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:42 PM"
+        },
+        {
+          "date": "07/21/2023_07/23/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:45 PM"
+        },
+        {
+          "date": "07/28/2023_07/30/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:49 PM"
+        }
+      ]
+    },
+    {
+      "campground": "faria",
+      "dates": [
+        {
+          "date": "08/18/2023_08/20/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:03 PM"
+        },
+        {
+          "date": "08/25/2023_08/27/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:07 PM"
+        },
+        {
+          "date": "09/01/2023_09/03/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:10 PM"
+        },
+        {
+          "date": "09/08/2023_09/10/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:14 PM"
+        },
+        {
+          "date": "09/15/2023_09/17/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:18 PM"
+        },
+        {
+          "date": "09/22/2023_09/24/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:22 PM"
+        },
+        {
+          "date": "09/29/2023_10/01/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:25 PM"
+        },
+        {
+          "date": "10/06/2023_10/08/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:29 PM"
+        },
+        {
+          "date": "10/13/2023_10/15/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:24:33 PM"
+        },
+        {
+          "date": "10/20/2023_10/22/2023",
+          "spotsAvailable": 4,
+          "lastUpdated": "4/26/2023 2:24:36 PM"
+        },
+        {
+          "date": "04/28/2023_04/30/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:04 PM"
+        },
+        {
+          "date": "05/05/2023_05/07/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:08 PM"
+        },
+        {
+          "date": "05/12/2023_05/14/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:12 PM"
+        },
+        {
+          "date": "05/19/2023_05/21/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:15 PM"
+        },
+        {
+          "date": "05/26/2023_05/28/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:19 PM"
+        },
+        {
+          "date": "06/02/2023_06/04/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:22 PM"
+        },
+        {
+          "date": "06/09/2023_06/11/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:26 PM"
+        },
+        {
+          "date": "06/16/2023_06/18/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:30 PM"
+        },
+        {
+          "date": "06/23/2023_06/25/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:34 PM"
+        },
+        {
+          "date": "06/30/2023_07/02/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:37 PM"
+        },
+        {
+          "date": "07/07/2023_07/09/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:41 PM"
+        },
+        {
+          "date": "07/14/2023_07/16/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:44 PM"
+        },
+        {
+          "date": "07/28/2023_07/30/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:52 PM"
+        },
+        {
+          "date": "08/04/2023_08/06/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:56 PM"
+        },
+        {
+          "date": "08/11/2023_08/13/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:59 PM"
+        }
+      ]
+    },
+    {
+      "campground": "rincon",
+      "dates": [
+        {
+          "date": "07/28/2023_07/30/2023",
+          "spotsAvailable": 47,
+          "lastUpdated": "4/26/2023 2:23:53 PM"
+        },
+        {
+          "date": "08/04/2023_08/06/2023",
+          "spotsAvailable": 127,
+          "lastUpdated": "4/26/2023 2:23:57 PM"
+        },
+        {
+          "date": "08/11/2023_08/13/2023",
+          "spotsAvailable": 127,
+          "lastUpdated": "4/26/2023 2:24:01 PM"
+        },
+        {
+          "date": "08/18/2023_08/20/2023",
+          "spotsAvailable": 127,
+          "lastUpdated": "4/26/2023 2:24:05 PM"
+        },
+        {
+          "date": "08/25/2023_08/27/2023",
+          "spotsAvailable": 127,
+          "lastUpdated": "4/26/2023 2:24:09 PM"
+        },
+        {
+          "date": "09/08/2023_09/10/2023",
+          "spotsAvailable": 127,
+          "lastUpdated": "4/26/2023 2:24:17 PM"
+        },
+        {
+          "date": "09/15/2023_09/17/2023",
+          "spotsAvailable": 127,
+          "lastUpdated": "4/26/2023 2:24:21 PM"
+        },
+        {
+          "date": "09/22/2023_09/24/2023",
+          "spotsAvailable": 127,
+          "lastUpdated": "4/26/2023 2:24:25 PM"
+        },
+        {
+          "date": "09/29/2023_10/01/2023",
+          "spotsAvailable": 127,
+          "lastUpdated": "4/26/2023 2:24:28 PM"
+        },
+        {
+          "date": "10/06/2023_10/08/2023",
+          "spotsAvailable": 127,
+          "lastUpdated": "4/26/2023 2:24:32 PM"
+        },
+        {
+          "date": "10/13/2023_10/15/2023",
+          "spotsAvailable": 127,
+          "lastUpdated": "4/26/2023 2:24:36 PM"
+        },
+        {
+          "date": "10/20/2023_10/22/2023",
+          "spotsAvailable": 127,
+          "lastUpdated": "4/26/2023 2:24:40 PM"
+        },
+        {
+          "date": "04/28/2023_04/30/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:02 PM"
+        },
+        {
+          "date": "05/05/2023_05/07/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:06 PM"
+        },
+        {
+          "date": "05/12/2023_05/14/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:10 PM"
+        },
+        {
+          "date": "05/19/2023_05/21/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:14 PM"
+        },
+        {
+          "date": "05/26/2023_05/28/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:18 PM"
+        },
+        {
+          "date": "06/02/2023_06/04/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:22 PM"
+        },
+        {
+          "date": "06/09/2023_06/11/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:25 PM"
+        },
+        {
+          "date": "06/16/2023_06/18/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:29 PM"
+        },
+        {
+          "date": "06/23/2023_06/25/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:33 PM"
+        },
+        {
+          "date": "06/30/2023_07/02/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:37 PM"
+        },
+        {
+          "date": "07/07/2023_07/09/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:41 PM"
+        },
+        {
+          "date": "07/14/2023_07/16/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:44 PM"
+        },
+        {
+          "date": "07/21/2023_07/23/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "4/26/2023 2:23:49 PM"
+        },
+        {
+          "date": "09/01/2023_09/03/2023",
+          "spotsAvailable": 127,
+          "lastUpdated": "4/26/2023 2:24:13 PM"
+        }
+      ]
+    }
+  ]
 }
