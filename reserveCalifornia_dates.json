@@ -51,112 +51,117 @@
         {
           "date": "06/30/2023_07/02/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:00:59 AM"
+          "lastUpdated": "6/2/2023 4:01:00 AM"
         },
         {
           "date": "07/07/2023_07/09/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:01:07 AM"
+          "lastUpdated": "6/2/2023 4:01:08 AM"
         },
         {
           "date": "07/14/2023_07/16/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:01:12 AM"
+          "lastUpdated": "6/2/2023 4:01:16 AM"
         },
         {
           "date": "07/21/2023_07/23/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:01:20 AM"
+          "lastUpdated": "6/2/2023 4:01:24 AM"
         },
         {
           "date": "07/28/2023_07/30/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:01:28 AM"
+          "lastUpdated": "6/2/2023 4:01:33 AM"
         },
         {
           "date": "08/04/2023_08/06/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:01:36 AM"
+          "lastUpdated": "6/2/2023 4:01:41 AM"
         },
         {
           "date": "08/11/2023_08/13/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:01:44 AM"
+          "lastUpdated": "6/2/2023 4:01:49 AM"
         },
         {
           "date": "08/18/2023_08/20/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:01:51 AM"
+          "lastUpdated": "6/2/2023 4:01:57 AM"
         },
         {
           "date": "08/25/2023_08/27/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:01:58 AM"
+          "lastUpdated": "6/2/2023 4:02:05 AM"
         },
         {
           "date": "09/01/2023_09/03/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:02:06 AM"
+          "lastUpdated": "6/2/2023 4:02:12 AM"
         },
         {
           "date": "09/08/2023_09/10/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:02:14 AM"
+          "lastUpdated": "6/2/2023 4:02:20 AM"
         },
         {
           "date": "09/15/2023_09/17/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:02:21 AM"
+          "lastUpdated": "6/2/2023 4:02:28 AM"
         },
         {
           "date": "09/22/2023_09/24/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:02:28 AM"
+          "lastUpdated": "6/2/2023 4:02:36 AM"
         },
         {
           "date": "09/29/2023_10/01/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:02:38 AM"
+          "lastUpdated": "6/2/2023 4:02:43 AM"
         },
         {
           "date": "10/06/2023_10/08/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 1:02:46 AM"
+          "lastUpdated": "6/2/2023 4:02:50 AM"
         },
         {
           "date": "10/13/2023_10/15/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 4:03:07 PM"
+          "lastUpdated": "6/2/2023 4:02:58 AM"
         },
         {
           "date": "10/20/2023_10/22/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 4:03:15 PM"
+          "lastUpdated": "6/2/2023 4:03:05 AM"
         },
         {
           "date": "10/27/2023_10/29/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 4:03:22 PM"
+          "lastUpdated": "6/2/2023 4:03:11 AM"
         },
         {
           "date": "11/03/2023_11/05/2023",
-          "spotsAvailable": 39,
-          "lastUpdated": "6/1/2023 4:03:30 PM"
+          "spotsAvailable": 38,
+          "lastUpdated": "6/2/2023 4:03:19 AM"
         },
         {
           "date": "11/10/2023_11/12/2023",
-          "spotsAvailable": 42,
-          "lastUpdated": "6/1/2023 4:03:39 PM"
+          "spotsAvailable": 43,
+          "lastUpdated": "6/2/2023 4:03:27 AM"
         },
         {
           "date": "11/17/2023_11/19/2023",
           "spotsAvailable": 66,
-          "lastUpdated": "6/1/2023 4:03:47 PM"
+          "lastUpdated": "6/2/2023 4:03:35 AM"
         },
         {
           "date": "11/24/2023_11/26/2023",
-          "spotsAvailable": 66,
-          "lastUpdated": "6/1/2023 4:03:55 PM"
+          "spotsAvailable": 64,
+          "lastUpdated": "6/2/2023 4:03:42 AM"
+        },
+        {
+          "date": "12/01/2023_12/03/2023",
+          "spotsAvailable": 42,
+          "lastUpdated": "6/2/2023 4:03:50 AM"
         }
       ]
     },
@@ -196,132 +201,132 @@
         {
           "date": "06/09/2023_06/11/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:01:57 AM"
+          "lastUpdated": "6/2/2023 4:04:01 AM"
         },
         {
           "date": "06/16/2023_06/18/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:02:05 AM"
+          "lastUpdated": "6/2/2023 4:04:09 AM"
         },
         {
           "date": "06/23/2023_06/25/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:02:12 AM"
+          "lastUpdated": "6/2/2023 4:04:17 AM"
         },
         {
           "date": "06/30/2023_07/02/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:02:19 AM"
+          "lastUpdated": "6/2/2023 4:04:25 AM"
         },
         {
           "date": "07/07/2023_07/09/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:02:26 AM"
+          "lastUpdated": "6/2/2023 4:04:32 AM"
         },
         {
           "date": "07/14/2023_07/16/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:02:34 AM"
+          "lastUpdated": "6/2/2023 4:04:40 AM"
         },
         {
           "date": "07/21/2023_07/23/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:02:41 AM"
+          "lastUpdated": "6/2/2023 4:04:49 AM"
         },
         {
           "date": "07/28/2023_07/30/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:02:49 AM"
+          "lastUpdated": "6/2/2023 4:04:56 AM"
         },
         {
           "date": "08/04/2023_08/06/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:02:57 AM"
+          "lastUpdated": "6/2/2023 4:05:03 AM"
         },
         {
           "date": "08/11/2023_08/13/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:03:04 AM"
+          "lastUpdated": "6/2/2023 4:05:11 AM"
         },
         {
           "date": "08/18/2023_08/20/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:03:11 AM"
+          "lastUpdated": "6/2/2023 4:05:18 AM"
         },
         {
           "date": "08/25/2023_08/27/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:03:19 AM"
+          "lastUpdated": "6/2/2023 4:05:26 AM"
         },
         {
           "date": "09/01/2023_09/03/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:03:28 AM"
+          "lastUpdated": "6/2/2023 4:05:34 AM"
         },
         {
           "date": "09/08/2023_09/10/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:03:36 AM"
+          "lastUpdated": "6/2/2023 4:05:41 AM"
         },
         {
           "date": "09/15/2023_09/17/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:03:44 AM"
+          "lastUpdated": "6/2/2023 4:05:50 AM"
         },
         {
           "date": "09/22/2023_09/24/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:03:51 AM"
+          "lastUpdated": "6/2/2023 4:05:57 AM"
         },
         {
           "date": "09/29/2023_10/01/2023",
-          "spotsAvailable": 56,
-          "lastUpdated": "6/2/2023 3:03:59 AM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:06:04 AM"
         },
         {
           "date": "10/06/2023_10/08/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:04:06 AM"
+          "lastUpdated": "6/2/2023 4:06:12 AM"
         },
         {
           "date": "10/13/2023_10/15/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:04:14 AM"
+          "lastUpdated": "6/2/2023 4:06:19 AM"
         },
         {
           "date": "10/20/2023_10/22/2023",
           "spotsAvailable": 1,
-          "lastUpdated": "6/2/2023 3:04:22 AM"
+          "lastUpdated": "6/2/2023 4:06:26 AM"
         },
         {
           "date": "10/27/2023_10/29/2023",
-          "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:04:30 AM"
+          "spotsAvailable": 6,
+          "lastUpdated": "6/2/2023 4:06:33 AM"
         },
         {
           "date": "11/03/2023_11/05/2023",
           "spotsAvailable": 44,
-          "lastUpdated": "6/2/2023 3:04:38 AM"
+          "lastUpdated": "6/2/2023 4:06:41 AM"
         },
         {
           "date": "11/10/2023_11/12/2023",
           "spotsAvailable": 6,
-          "lastUpdated": "6/2/2023 3:04:46 AM"
+          "lastUpdated": "6/2/2023 4:06:48 AM"
         },
         {
           "date": "11/17/2023_11/19/2023",
           "spotsAvailable": 34,
-          "lastUpdated": "6/2/2023 3:04:53 AM"
+          "lastUpdated": "6/2/2023 4:06:55 AM"
         },
         {
           "date": "11/24/2023_11/26/2023",
           "spotsAvailable": 19,
-          "lastUpdated": "6/2/2023 3:05:01 AM"
+          "lastUpdated": "6/2/2023 4:07:02 AM"
         },
         {
           "date": "12/01/2023_12/03/2023",
           "spotsAvailable": 145,
-          "lastUpdated": "6/2/2023 3:05:08 AM"
+          "lastUpdated": "6/2/2023 4:07:10 AM"
         }
       ]
     },
@@ -521,132 +526,132 @@
         {
           "date": "06/09/2023_06/11/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:05:19 AM"
+          "lastUpdated": "6/2/2023 4:07:21 AM"
         },
         {
           "date": "06/16/2023_06/18/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:05:26 AM"
+          "lastUpdated": "6/2/2023 4:07:28 AM"
         },
         {
           "date": "06/23/2023_06/25/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:05:33 AM"
+          "lastUpdated": "6/2/2023 4:07:36 AM"
         },
         {
           "date": "06/30/2023_07/02/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:05:41 AM"
+          "lastUpdated": "6/2/2023 4:07:44 AM"
         },
         {
           "date": "07/07/2023_07/09/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:05:48 AM"
+          "lastUpdated": "6/2/2023 4:07:52 AM"
         },
         {
           "date": "07/14/2023_07/16/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:05:57 AM"
+          "lastUpdated": "6/2/2023 4:07:59 AM"
         },
         {
           "date": "07/21/2023_07/23/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:06:06 AM"
+          "lastUpdated": "6/2/2023 4:08:07 AM"
         },
         {
           "date": "07/28/2023_07/30/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:06:14 AM"
+          "lastUpdated": "6/2/2023 4:08:14 AM"
         },
         {
           "date": "08/04/2023_08/06/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:06:21 AM"
+          "lastUpdated": "6/2/2023 4:08:22 AM"
         },
         {
           "date": "08/11/2023_08/13/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:06:29 AM"
+          "lastUpdated": "6/2/2023 4:08:29 AM"
         },
         {
           "date": "08/18/2023_08/20/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:06:37 AM"
+          "lastUpdated": "6/2/2023 4:08:36 AM"
         },
         {
           "date": "08/25/2023_08/27/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:06:44 AM"
+          "lastUpdated": "6/2/2023 4:08:44 AM"
         },
         {
           "date": "09/01/2023_09/03/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:06:52 AM"
+          "lastUpdated": "6/2/2023 4:08:51 AM"
         },
         {
           "date": "09/08/2023_09/10/2023",
-          "spotsAvailable": 34,
-          "lastUpdated": "6/2/2023 3:06:59 AM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:08:59 AM"
         },
         {
           "date": "09/15/2023_09/17/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:07:06 AM"
+          "lastUpdated": "6/2/2023 4:09:07 AM"
         },
         {
           "date": "09/22/2023_09/24/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:07:13 AM"
+          "lastUpdated": "6/2/2023 4:09:15 AM"
         },
         {
           "date": "09/29/2023_10/01/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:07:21 AM"
+          "lastUpdated": "6/2/2023 4:09:22 AM"
         },
         {
           "date": "10/06/2023_10/08/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:07:28 AM"
+          "lastUpdated": "6/2/2023 4:09:30 AM"
         },
         {
           "date": "10/13/2023_10/15/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:07:36 AM"
+          "lastUpdated": "6/2/2023 4:09:37 AM"
         },
         {
           "date": "10/20/2023_10/22/2023",
           "spotsAvailable": 1,
-          "lastUpdated": "6/2/2023 3:07:44 AM"
+          "lastUpdated": "6/2/2023 4:09:46 AM"
         },
         {
           "date": "10/27/2023_10/29/2023",
           "spotsAvailable": 41,
-          "lastUpdated": "6/2/2023 3:07:51 AM"
+          "lastUpdated": "6/2/2023 4:09:54 AM"
         },
         {
           "date": "11/03/2023_11/05/2023",
           "spotsAvailable": 35,
-          "lastUpdated": "6/2/2023 3:08:00 AM"
+          "lastUpdated": "6/2/2023 4:10:02 AM"
         },
         {
           "date": "11/10/2023_11/12/2023",
           "spotsAvailable": 32,
-          "lastUpdated": "6/2/2023 3:08:07 AM"
+          "lastUpdated": "6/2/2023 4:10:09 AM"
         },
         {
           "date": "11/17/2023_11/19/2023",
           "spotsAvailable": 18,
-          "lastUpdated": "6/2/2023 3:08:14 AM"
+          "lastUpdated": "6/2/2023 4:10:17 AM"
         },
         {
           "date": "11/24/2023_11/26/2023",
           "spotsAvailable": 2,
-          "lastUpdated": "6/2/2023 3:08:21 AM"
+          "lastUpdated": "6/2/2023 4:10:26 AM"
         },
         {
           "date": "12/01/2023_12/03/2023",
-          "spotsAvailable": 95,
-          "lastUpdated": "6/2/2023 3:08:29 AM"
+          "spotsAvailable": 2,
+          "lastUpdated": "6/2/2023 4:10:33 AM"
         }
       ]
     },
@@ -686,127 +691,132 @@
         {
           "date": "06/09/2023_06/11/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 2:10:24 AM"
+          "lastUpdated": "6/2/2023 4:14:02 AM"
         },
         {
           "date": "06/16/2023_06/18/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 2:10:31 AM"
+          "lastUpdated": "6/2/2023 4:14:09 AM"
         },
         {
           "date": "06/23/2023_06/25/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 2:10:39 AM"
+          "lastUpdated": "6/2/2023 4:14:17 AM"
         },
         {
           "date": "06/30/2023_07/02/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 2:10:47 AM"
+          "lastUpdated": "6/2/2023 4:14:25 AM"
         },
         {
           "date": "07/07/2023_07/09/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 2:10:55 AM"
+          "lastUpdated": "6/2/2023 4:14:33 AM"
         },
         {
           "date": "07/14/2023_07/16/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 12:10:36 AM"
+          "lastUpdated": "6/2/2023 4:14:40 AM"
         },
         {
           "date": "07/21/2023_07/23/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 12:10:44 AM"
+          "lastUpdated": "6/2/2023 4:14:49 AM"
         },
         {
           "date": "07/28/2023_07/30/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 8:08:58 PM"
+          "lastUpdated": "6/2/2023 4:14:56 AM"
         },
         {
           "date": "08/04/2023_08/06/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 8:09:05 PM"
+          "lastUpdated": "6/2/2023 4:15:03 AM"
         },
         {
           "date": "08/11/2023_08/13/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 8:09:12 PM"
+          "lastUpdated": "6/2/2023 4:15:11 AM"
         },
         {
           "date": "08/18/2023_08/20/2023",
           "spotsAvailable": 1,
-          "lastUpdated": "6/1/2023 8:09:20 PM"
+          "lastUpdated": "6/2/2023 4:15:18 AM"
         },
         {
           "date": "08/25/2023_08/27/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 8:09:28 PM"
+          "lastUpdated": "6/2/2023 4:15:25 AM"
         },
         {
           "date": "09/01/2023_09/03/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 4:12:31 PM"
+          "lastUpdated": "6/2/2023 4:15:33 AM"
         },
         {
           "date": "09/08/2023_09/10/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 4:12:38 PM"
+          "lastUpdated": "6/2/2023 4:15:40 AM"
         },
         {
           "date": "09/15/2023_09/17/2023",
-          "spotsAvailable": 1,
-          "lastUpdated": "6/1/2023 4:12:46 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:15:48 AM"
         },
         {
           "date": "09/22/2023_09/24/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 4:12:54 PM"
+          "lastUpdated": "6/2/2023 4:15:55 AM"
         },
         {
           "date": "09/29/2023_10/01/2023",
-          "spotsAvailable": 1,
-          "lastUpdated": "6/1/2023 4:13:01 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:16:02 AM"
         },
         {
           "date": "10/06/2023_10/08/2023",
-          "spotsAvailable": 1,
-          "lastUpdated": "6/1/2023 4:13:09 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:16:09 AM"
         },
         {
           "date": "10/13/2023_10/15/2023",
-          "spotsAvailable": 1,
-          "lastUpdated": "6/1/2023 4:13:16 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:16:17 AM"
         },
         {
           "date": "10/20/2023_10/22/2023",
-          "spotsAvailable": 1,
-          "lastUpdated": "6/1/2023 4:13:23 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:16:24 AM"
         },
         {
           "date": "10/27/2023_10/29/2023",
-          "spotsAvailable": 1,
-          "lastUpdated": "6/1/2023 4:13:30 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:16:31 AM"
         },
         {
           "date": "11/03/2023_11/05/2023",
-          "spotsAvailable": 1,
-          "lastUpdated": "6/1/2023 4:13:37 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:16:38 AM"
         },
         {
           "date": "11/10/2023_11/12/2023",
-          "spotsAvailable": 1,
-          "lastUpdated": "6/1/2023 4:13:45 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:16:45 AM"
         },
         {
           "date": "11/17/2023_11/19/2023",
-          "spotsAvailable": 1,
-          "lastUpdated": "6/1/2023 4:13:52 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:16:53 AM"
         },
         {
           "date": "11/24/2023_11/26/2023",
-          "spotsAvailable": 1,
-          "lastUpdated": "6/1/2023 4:13:59 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:17:00 AM"
+        },
+        {
+          "date": "12/01/2023_12/03/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:17:07 AM"
         }
       ]
     },
@@ -1006,127 +1016,132 @@
         {
           "date": "06/09/2023_06/11/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:08:40 AM"
+          "lastUpdated": "6/2/2023 4:10:44 AM"
         },
         {
           "date": "06/16/2023_06/18/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:08:47 AM"
+          "lastUpdated": "6/2/2023 4:10:52 AM"
         },
         {
           "date": "06/23/2023_06/25/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:08:54 AM"
+          "lastUpdated": "6/2/2023 4:11:00 AM"
         },
         {
           "date": "06/30/2023_07/02/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:09:03 AM"
+          "lastUpdated": "6/2/2023 4:11:07 AM"
         },
         {
           "date": "07/07/2023_07/09/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:09:11 AM"
+          "lastUpdated": "6/2/2023 4:11:15 AM"
         },
         {
           "date": "07/14/2023_07/16/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:09:19 AM"
+          "lastUpdated": "6/2/2023 4:11:22 AM"
         },
         {
           "date": "07/21/2023_07/23/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:09:27 AM"
+          "lastUpdated": "6/2/2023 4:11:29 AM"
         },
         {
           "date": "07/28/2023_07/30/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:09:36 AM"
+          "lastUpdated": "6/2/2023 4:11:36 AM"
         },
         {
           "date": "08/04/2023_08/06/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:09:43 AM"
+          "lastUpdated": "6/2/2023 4:11:43 AM"
         },
         {
           "date": "08/11/2023_08/13/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:09:52 AM"
+          "lastUpdated": "6/2/2023 4:11:50 AM"
         },
         {
           "date": "08/18/2023_08/20/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:09:59 AM"
+          "lastUpdated": "6/2/2023 4:11:58 AM"
         },
         {
           "date": "08/25/2023_08/27/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:10:07 AM"
+          "lastUpdated": "6/2/2023 4:12:06 AM"
         },
         {
           "date": "09/01/2023_09/03/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:10:14 AM"
+          "lastUpdated": "6/2/2023 4:12:13 AM"
         },
         {
           "date": "09/08/2023_09/10/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:10:21 AM"
+          "lastUpdated": "6/2/2023 4:12:21 AM"
         },
         {
           "date": "09/15/2023_09/17/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 6:12:00 PM"
+          "lastUpdated": "6/2/2023 4:12:29 AM"
         },
         {
           "date": "09/22/2023_09/24/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 6:12:08 PM"
+          "lastUpdated": "6/2/2023 4:12:37 AM"
         },
         {
           "date": "09/29/2023_10/01/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 6:12:15 PM"
+          "lastUpdated": "6/2/2023 4:12:44 AM"
         },
         {
           "date": "10/06/2023_10/08/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 6:12:24 PM"
+          "lastUpdated": "6/2/2023 4:12:51 AM"
         },
         {
           "date": "10/13/2023_10/15/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 6:12:31 PM"
+          "lastUpdated": "6/2/2023 4:12:59 AM"
         },
         {
           "date": "10/20/2023_10/22/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 6:12:39 PM"
+          "lastUpdated": "6/2/2023 4:13:06 AM"
         },
         {
           "date": "10/27/2023_10/29/2023",
-          "spotsAvailable": 41,
-          "lastUpdated": "6/1/2023 6:12:47 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:13:14 AM"
         },
         {
           "date": "11/03/2023_11/05/2023",
-          "spotsAvailable": 41,
-          "lastUpdated": "6/1/2023 6:12:54 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:13:21 AM"
         },
         {
           "date": "11/10/2023_11/12/2023",
-          "spotsAvailable": 41,
-          "lastUpdated": "6/1/2023 6:13:01 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:13:28 AM"
         },
         {
           "date": "11/17/2023_11/19/2023",
-          "spotsAvailable": 41,
-          "lastUpdated": "6/1/2023 6:13:08 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:13:36 AM"
         },
         {
           "date": "11/24/2023_11/26/2023",
-          "spotsAvailable": 41,
-          "lastUpdated": "6/1/2023 6:13:16 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:13:43 AM"
+        },
+        {
+          "date": "12/01/2023_12/03/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:13:51 AM"
         }
       ]
     },
@@ -1161,127 +1176,132 @@
         {
           "date": "06/09/2023_06/11/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 3:11:13 AM"
+          "lastUpdated": "6/2/2023 4:17:19 AM"
         },
         {
           "date": "06/16/2023_06/18/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 12:11:47 AM"
+          "lastUpdated": "6/2/2023 4:17:27 AM"
         },
         {
           "date": "06/23/2023_06/25/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 12:11:55 AM"
+          "lastUpdated": "6/2/2023 4:17:34 AM"
         },
         {
           "date": "06/30/2023_07/02/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 12:12:02 AM"
+          "lastUpdated": "6/2/2023 4:17:41 AM"
         },
         {
           "date": "07/07/2023_07/09/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/2/2023 12:12:11 AM"
+          "lastUpdated": "6/2/2023 4:17:48 AM"
         },
         {
           "date": "07/14/2023_07/16/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 7:06:38 PM"
+          "lastUpdated": "6/2/2023 4:17:57 AM"
         },
         {
           "date": "07/21/2023_07/23/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 7:06:45 PM"
+          "lastUpdated": "6/2/2023 4:18:05 AM"
         },
         {
           "date": "07/28/2023_07/30/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 7:06:53 PM"
+          "lastUpdated": "6/2/2023 4:18:13 AM"
         },
         {
           "date": "08/04/2023_08/06/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 7:07:00 PM"
+          "lastUpdated": "6/2/2023 4:18:20 AM"
         },
         {
           "date": "08/11/2023_08/13/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 7:07:08 PM"
+          "lastUpdated": "6/2/2023 4:18:27 AM"
         },
         {
           "date": "08/18/2023_08/20/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 7:07:16 PM"
+          "lastUpdated": "6/2/2023 4:18:34 AM"
         },
         {
           "date": "08/25/2023_08/27/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 7:07:24 PM"
+          "lastUpdated": "6/2/2023 4:18:41 AM"
         },
         {
           "date": "09/01/2023_09/03/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 7:07:31 PM"
+          "lastUpdated": "6/2/2023 4:18:49 AM"
         },
         {
           "date": "09/08/2023_09/10/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 7:07:39 PM"
+          "lastUpdated": "6/2/2023 4:18:57 AM"
         },
         {
           "date": "09/15/2023_09/17/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 7:07:46 PM"
+          "lastUpdated": "6/2/2023 4:19:04 AM"
         },
         {
           "date": "09/22/2023_09/24/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 9:10:06 AM"
+          "lastUpdated": "6/2/2023 4:19:12 AM"
         },
         {
           "date": "09/29/2023_10/01/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 9:10:13 AM"
+          "lastUpdated": "6/2/2023 4:19:19 AM"
         },
         {
           "date": "10/06/2023_10/08/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 9:10:21 AM"
+          "lastUpdated": "6/2/2023 4:19:26 AM"
         },
         {
           "date": "10/13/2023_10/15/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 9:10:29 AM"
+          "lastUpdated": "6/2/2023 4:19:34 AM"
         },
         {
           "date": "10/20/2023_10/22/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 9:10:36 AM"
+          "lastUpdated": "6/2/2023 4:19:41 AM"
         },
         {
           "date": "10/27/2023_10/29/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 9:10:44 AM"
+          "lastUpdated": "6/2/2023 4:19:48 AM"
         },
         {
           "date": "11/03/2023_11/05/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 9:10:51 AM"
+          "lastUpdated": "6/2/2023 4:19:56 AM"
         },
         {
           "date": "11/10/2023_11/12/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "6/1/2023 9:10:58 AM"
+          "lastUpdated": "6/2/2023 4:20:03 AM"
         },
         {
           "date": "11/17/2023_11/19/2023",
-          "spotsAvailable": 11,
-          "lastUpdated": "6/1/2023 9:11:05 AM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:20:10 AM"
         },
         {
           "date": "11/24/2023_11/26/2023",
-          "spotsAvailable": 4,
-          "lastUpdated": "6/1/2023 9:11:13 AM"
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:20:18 AM"
+        },
+        {
+          "date": "12/01/2023_12/03/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "6/2/2023 4:20:26 AM"
         }
       ]
     }
