@@ -1535,18 +1535,18 @@
         },
         {
           "date": "12/29/2023_12/31/2023",
-          "spotsAvailable": 45,
-          "lastUpdated": "7/20/2023 9:17:40 PM"
+          "spotsAvailable": 5,
+          "lastUpdated": "7/20/2023 9:21:21 PM"
         },
         {
           "date": "01/05/2024_01/07/2024",
-          "spotsAvailable": 114,
-          "lastUpdated": "7/20/2023 9:17:47 PM"
+          "spotsAvailable": 5,
+          "lastUpdated": "7/20/2023 9:21:29 PM"
         },
         {
           "date": "01/12/2024_01/14/2024",
-          "spotsAvailable": 0,
-          "lastUpdated": "7/20/2023 9:17:55 PM"
+          "spotsAvailable": 5,
+          "lastUpdated": "7/20/2023 9:21:37 PM"
         }
       ]
     }
