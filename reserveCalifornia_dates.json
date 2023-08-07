@@ -731,27 +731,32 @@
         {
           "date": "09/15/2023_09/17/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "8/7/2023 3:12:07 PM"
+          "lastUpdated": "8/7/2023 3:14:42 PM"
         },
         {
           "date": "09/22/2023_09/24/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "8/7/2023 3:12:14 PM"
+          "lastUpdated": "8/7/2023 3:14:49 PM"
         },
         {
           "date": "09/29/2023_10/01/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "8/7/2023 1:38:47 PM"
+          "lastUpdated": "8/7/2023 3:14:58 PM"
         },
         {
           "date": "10/06/2023_10/08/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "8/7/2023 1:38:53 PM"
+          "lastUpdated": "8/7/2023 3:15:06 PM"
         },
         {
           "date": "10/13/2023_10/15/2023",
           "spotsAvailable": 0,
-          "lastUpdated": "8/7/2023 1:39:00 PM"
+          "lastUpdated": "8/7/2023 3:15:14 PM"
+        },
+        {
+          "date": "10/20/2023_10/22/2023",
+          "spotsAvailable": 0,
+          "lastUpdated": "8/7/2023 3:15:22 PM"
         }
       ]
     },
