@@ -1,1 +1,161 @@
-{}
+{
+  "dates": [],
+  "campgrounds": [],
+  "campground_dates": [
+    {
+      "campground": "emma_wood",
+      "dates": [
+        {
+          "date": "05/02/2024_05/05/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:34:18 AM"
+        }
+      ]
+    },
+    {
+      "campground": "new_brigthon_sb",
+      "dates": [
+        {
+          "date": "05/02/2024_05/05/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:34:36 AM"
+        },
+        {
+          "date": "05/09/2024_05/12/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:34:42 AM"
+        },
+        {
+          "date": "05/16/2024_05/19/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:34:49 AM"
+        },
+        {
+          "date": "05/23/2024_05/26/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:34:56 AM"
+        },
+        {
+          "date": "05/30/2024_06/02/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:35:02 AM"
+        },
+        {
+          "date": "06/06/2024_06/09/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:35:09 AM"
+        },
+        {
+          "date": "06/13/2024_06/16/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:35:16 AM"
+        },
+        {
+          "date": "06/20/2024_06/23/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:35:22 AM"
+        },
+        {
+          "date": "06/27/2024_06/30/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:35:28 AM"
+        },
+        {
+          "date": "07/04/2024_07/07/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:35:35 AM"
+        },
+        {
+          "date": "07/11/2024_07/14/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:35:43 AM"
+        },
+        {
+          "date": "07/18/2024_07/21/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:35:50 AM"
+        },
+        {
+          "date": "07/25/2024_07/28/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:35:56 AM"
+        },
+        {
+          "date": "08/01/2024_08/04/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:36:04 AM"
+        },
+        {
+          "date": "08/08/2024_08/11/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:36:10 AM"
+        },
+        {
+          "date": "08/15/2024_08/18/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:36:16 AM"
+        },
+        {
+          "date": "08/22/2024_08/25/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:36:23 AM"
+        },
+        {
+          "date": "08/29/2024_09/01/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:36:29 AM"
+        },
+        {
+          "date": "09/05/2024_09/08/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:36:36 AM"
+        },
+        {
+          "date": "09/12/2024_09/15/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:36:43 AM"
+        },
+        {
+          "date": "09/19/2024_09/22/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:36:50 AM"
+        },
+        {
+          "date": "09/26/2024_09/29/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:36:57 AM"
+        },
+        {
+          "date": "10/03/2024_10/06/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:37:04 AM"
+        },
+        {
+          "date": "10/10/2024_10/13/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:37:11 AM"
+        },
+        {
+          "date": "10/17/2024_10/20/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:37:18 AM"
+        }
+      ]
+    },
+    {
+      "campground": "leo_carillo",
+      "dates": [
+        {
+          "date": "05/02/2024_05/05/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:37:35 AM"
+        },
+        {
+          "date": "05/09/2024_05/12/2024",
+          "spotsAvailable": 0,
+          "lastUpdated": "5/1/2024 10:37:41 AM"
+        }
+      ]
+    }
+  ]
+}
