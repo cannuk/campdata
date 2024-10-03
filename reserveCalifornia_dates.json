@@ -152,18 +152,18 @@
         },
         {
           "date": "03/13/2025_03/16/2025",
-          "spotsAvailable": 10,
-          "lastUpdated": "10/2/2024 11:05:50 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "10/2/2024 11:16:29 PM"
         },
         {
           "date": "03/20/2025_03/23/2025",
-          "spotsAvailable": 10,
-          "lastUpdated": "10/2/2024 11:05:57 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "10/2/2024 11:16:37 PM"
         },
         {
           "date": "03/27/2025_03/30/2025",
-          "spotsAvailable": 10,
-          "lastUpdated": "10/2/2024 11:06:04 PM"
+          "spotsAvailable": 0,
+          "lastUpdated": "10/2/2024 11:16:44 PM"
         }
       ]
     },
