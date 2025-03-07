@@ -1,1 +1,764 @@
-{}
+{
+  "campground_dates": [
+    {
+      "campground": "pfeiffer",
+      "dates": [
+        {
+          "date": "04/17/2025_04/20/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:07:02 AM"
+        },
+        {
+          "date": "04/24/2025_04/27/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:07:09 AM"
+        },
+        {
+          "date": "05/01/2025_05/04/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:07:17 AM"
+        },
+        {
+          "date": "05/08/2025_05/11/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:07:23 AM"
+        },
+        {
+          "date": "05/15/2025_05/18/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:07:30 AM"
+        },
+        {
+          "date": "05/22/2025_05/25/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:07:37 AM"
+        },
+        {
+          "date": "05/29/2025_06/01/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:04:11 AM"
+        },
+        {
+          "date": "06/05/2025_06/08/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:07:54 AM"
+        },
+        {
+          "date": "06/12/2025_06/15/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:08:00 AM"
+        },
+        {
+          "date": "06/19/2025_06/22/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:08:07 AM"
+        },
+        {
+          "date": "06/26/2025_06/29/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:08:14 AM"
+        },
+        {
+          "date": "07/03/2025_07/06/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:08:21 AM"
+        },
+        {
+          "date": "07/10/2025_07/13/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:08:29 AM"
+        },
+        {
+          "date": "07/17/2025_07/20/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:08:36 AM"
+        },
+        {
+          "date": "07/24/2025_07/27/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:08:43 AM"
+        },
+        {
+          "date": "07/31/2025_08/03/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:08:50 AM"
+        },
+        {
+          "date": "08/14/2025_08/17/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:09:05 AM"
+        },
+        {
+          "date": "08/21/2025_08/24/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:09:12 AM"
+        },
+        {
+          "date": "08/28/2025_08/31/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:09:19 AM"
+        },
+        {
+          "date": "09/04/2025_09/07/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:09:26 AM"
+        },
+        {
+          "date": "03/13/2025_03/16/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:06:25 AM"
+        },
+        {
+          "date": "03/20/2025_03/23/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:06:32 AM"
+        },
+        {
+          "date": "03/27/2025_03/30/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:06:39 AM"
+        },
+        {
+          "date": "04/03/2025_04/06/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:06:48 AM"
+        },
+        {
+          "date": "04/10/2025_04/13/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:06:55 AM"
+        }
+      ]
+    },
+    {
+      "campground": "carpinteria",
+      "dates": [
+        {
+          "date": "05/01/2025_05/04/2025",
+          "spotsAvailable": 3,
+          "lastUpdated": "3/7/2025 9:13:31 AM"
+        },
+        {
+          "date": "05/08/2025_05/11/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:13:39 AM"
+        },
+        {
+          "date": "05/15/2025_05/18/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:13:46 AM"
+        },
+        {
+          "date": "05/22/2025_05/25/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:13:53 AM"
+        },
+        {
+          "date": "05/29/2025_06/01/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:00 AM"
+        },
+        {
+          "date": "06/05/2025_06/08/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:07 AM"
+        },
+        {
+          "date": "06/12/2025_06/15/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:14 AM"
+        },
+        {
+          "date": "06/19/2025_06/22/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:21 AM"
+        },
+        {
+          "date": "06/26/2025_06/29/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:28 AM"
+        },
+        {
+          "date": "07/03/2025_07/06/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:36 AM"
+        },
+        {
+          "date": "07/10/2025_07/13/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:44 AM"
+        },
+        {
+          "date": "07/17/2025_07/20/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:51 AM"
+        },
+        {
+          "date": "07/24/2025_07/27/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:58 AM"
+        },
+        {
+          "date": "07/31/2025_08/03/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:05 AM"
+        },
+        {
+          "date": "08/07/2025_08/10/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:11 AM"
+        },
+        {
+          "date": "08/14/2025_08/17/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:18 AM"
+        },
+        {
+          "date": "08/21/2025_08/24/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:25 AM"
+        },
+        {
+          "date": "08/28/2025_08/31/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:31 AM"
+        },
+        {
+          "date": "09/04/2025_09/07/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:38 AM"
+        },
+        {
+          "date": "03/13/2025_03/16/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:12:41 AM"
+        },
+        {
+          "date": "03/20/2025_03/23/2025",
+          "spotsAvailable": 1,
+          "lastUpdated": "3/7/2025 9:12:48 AM"
+        },
+        {
+          "date": "03/27/2025_03/30/2025",
+          "spotsAvailable": 2,
+          "lastUpdated": "3/7/2025 9:12:54 AM"
+        },
+        {
+          "date": "04/03/2025_04/06/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:13:02 AM"
+        },
+        {
+          "date": "04/10/2025_04/13/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:13:09 AM"
+        },
+        {
+          "date": "04/17/2025_04/20/2025",
+          "spotsAvailable": 1,
+          "lastUpdated": "3/7/2025 9:13:17 AM"
+        },
+        {
+          "date": "04/24/2025_04/27/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:13:24 AM"
+        }
+      ]
+    },
+    {
+      "campground": "south_carlsbad_sb",
+      "dates": [
+        {
+          "date": "03/13/2025_03/16/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:09:38 AM"
+        },
+        {
+          "date": "03/20/2025_03/23/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:09:46 AM"
+        },
+        {
+          "date": "03/27/2025_03/30/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:09:55 AM"
+        },
+        {
+          "date": "04/03/2025_04/06/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:10:04 AM"
+        },
+        {
+          "date": "04/10/2025_04/13/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:10:11 AM"
+        },
+        {
+          "date": "04/17/2025_04/20/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:10:18 AM"
+        },
+        {
+          "date": "04/24/2025_04/27/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:10:26 AM"
+        },
+        {
+          "date": "05/01/2025_05/04/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:10:34 AM"
+        },
+        {
+          "date": "05/08/2025_05/11/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:10:41 AM"
+        },
+        {
+          "date": "05/15/2025_05/18/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:10:47 AM"
+        },
+        {
+          "date": "05/22/2025_05/25/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:10:54 AM"
+        },
+        {
+          "date": "05/29/2025_06/01/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:11:01 AM"
+        },
+        {
+          "date": "06/05/2025_06/08/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:11:09 AM"
+        },
+        {
+          "date": "06/12/2025_06/15/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:11:16 AM"
+        },
+        {
+          "date": "06/19/2025_06/22/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:11:22 AM"
+        },
+        {
+          "date": "06/26/2025_06/29/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:11:31 AM"
+        },
+        {
+          "date": "07/03/2025_07/06/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:11:38 AM"
+        },
+        {
+          "date": "07/10/2025_07/13/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:11:45 AM"
+        },
+        {
+          "date": "07/17/2025_07/20/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:11:54 AM"
+        },
+        {
+          "date": "07/24/2025_07/27/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:12:01 AM"
+        },
+        {
+          "date": "07/31/2025_08/03/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:12:08 AM"
+        },
+        {
+          "date": "08/07/2025_08/10/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:12:14 AM"
+        },
+        {
+          "date": "08/14/2025_08/17/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:12:21 AM"
+        },
+        {
+          "date": "08/21/2025_08/24/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:12:27 AM"
+        },
+        {
+          "date": "08/28/2025_08/31/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:12:33 AM"
+        },
+        {
+          "date": "09/04/2025_09/07/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:12:40 AM"
+        }
+      ]
+    },
+    {
+      "campground": "emma_wood",
+      "dates": [
+        {
+          "date": "03/13/2025_03/16/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:13:26 AM"
+        },
+        {
+          "date": "03/20/2025_03/23/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:13:33 AM"
+        },
+        {
+          "date": "03/27/2025_03/30/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:13:40 AM"
+        },
+        {
+          "date": "04/03/2025_04/06/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:13:48 AM"
+        },
+        {
+          "date": "04/10/2025_04/13/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:13:55 AM"
+        },
+        {
+          "date": "04/17/2025_04/20/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:02 AM"
+        },
+        {
+          "date": "04/24/2025_04/27/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:10 AM"
+        },
+        {
+          "date": "05/01/2025_05/04/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:18 AM"
+        },
+        {
+          "date": "05/08/2025_05/11/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:25 AM"
+        },
+        {
+          "date": "05/15/2025_05/18/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:34 AM"
+        },
+        {
+          "date": "05/22/2025_05/25/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:41 AM"
+        },
+        {
+          "date": "05/29/2025_06/01/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:49 AM"
+        },
+        {
+          "date": "06/05/2025_06/08/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:14:57 AM"
+        },
+        {
+          "date": "06/12/2025_06/15/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:04 AM"
+        },
+        {
+          "date": "06/19/2025_06/22/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:11 AM"
+        },
+        {
+          "date": "06/26/2025_06/29/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:18 AM"
+        },
+        {
+          "date": "07/03/2025_07/06/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:24 AM"
+        },
+        {
+          "date": "07/10/2025_07/13/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:31 AM"
+        },
+        {
+          "date": "07/17/2025_07/20/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:38 AM"
+        },
+        {
+          "date": "07/24/2025_07/27/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:45 AM"
+        },
+        {
+          "date": "07/31/2025_08/03/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:51 AM"
+        },
+        {
+          "date": "08/07/2025_08/10/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:58 AM"
+        },
+        {
+          "date": "08/14/2025_08/17/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:16:05 AM"
+        },
+        {
+          "date": "08/21/2025_08/24/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:16:12 AM"
+        },
+        {
+          "date": "08/28/2025_08/31/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:16:18 AM"
+        },
+        {
+          "date": "09/04/2025_09/07/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:16:25 AM"
+        }
+      ]
+    },
+    {
+      "campground": "leo_carillo",
+      "dates": [
+        {
+          "date": "03/13/2025_03/16/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:15:51 AM"
+        },
+        {
+          "date": "03/20/2025_03/23/2025",
+          "spotsAvailable": 1,
+          "lastUpdated": "3/7/2025 9:15:58 AM"
+        },
+        {
+          "date": "03/27/2025_03/30/2025",
+          "spotsAvailable": 2,
+          "lastUpdated": "3/7/2025 9:16:05 AM"
+        },
+        {
+          "date": "04/03/2025_04/06/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:16:12 AM"
+        },
+        {
+          "date": "04/10/2025_04/13/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:16:19 AM"
+        },
+        {
+          "date": "04/17/2025_04/20/2025",
+          "spotsAvailable": 1,
+          "lastUpdated": "3/7/2025 9:16:26 AM"
+        },
+        {
+          "date": "04/24/2025_04/27/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:16:32 AM"
+        },
+        {
+          "date": "05/01/2025_05/04/2025",
+          "spotsAvailable": 3,
+          "lastUpdated": "3/7/2025 9:16:39 AM"
+        },
+        {
+          "date": "05/08/2025_05/11/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:16:46 AM"
+        },
+        {
+          "date": "05/15/2025_05/18/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:16:53 AM"
+        },
+        {
+          "date": "05/29/2025_06/01/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:07 AM"
+        },
+        {
+          "date": "06/05/2025_06/08/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:14 AM"
+        },
+        {
+          "date": "06/12/2025_06/15/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:20 AM"
+        },
+        {
+          "date": "06/19/2025_06/22/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:27 AM"
+        },
+        {
+          "date": "06/26/2025_06/29/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:34 AM"
+        },
+        {
+          "date": "07/03/2025_07/06/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:42 AM"
+        },
+        {
+          "date": "07/10/2025_07/13/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:48 AM"
+        },
+        {
+          "date": "07/17/2025_07/20/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:55 AM"
+        },
+        {
+          "date": "07/24/2025_07/27/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:01 AM"
+        },
+        {
+          "date": "07/31/2025_08/03/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:07 AM"
+        },
+        {
+          "date": "08/07/2025_08/10/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:14 AM"
+        },
+        {
+          "date": "08/14/2025_08/17/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:20 AM"
+        },
+        {
+          "date": "08/21/2025_08/24/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:27 AM"
+        },
+        {
+          "date": "08/28/2025_08/31/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:33 AM"
+        },
+        {
+          "date": "09/04/2025_09/07/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:40 AM"
+        }
+      ]
+    },
+    {
+      "campground": "new_brigthon_sb",
+      "dates": [
+        {
+          "date": "03/13/2025_03/16/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:16:38 AM"
+        },
+        {
+          "date": "03/20/2025_03/23/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:16:46 AM"
+        },
+        {
+          "date": "03/27/2025_03/30/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:16:53 AM"
+        },
+        {
+          "date": "04/03/2025_04/06/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:02 AM"
+        },
+        {
+          "date": "04/10/2025_04/13/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:08 AM"
+        },
+        {
+          "date": "04/17/2025_04/20/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:15 AM"
+        },
+        {
+          "date": "04/24/2025_04/27/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:22 AM"
+        },
+        {
+          "date": "05/01/2025_05/04/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:29 AM"
+        },
+        {
+          "date": "05/08/2025_05/11/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:35 AM"
+        },
+        {
+          "date": "05/15/2025_05/18/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:43 AM"
+        },
+        {
+          "date": "05/22/2025_05/25/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:50 AM"
+        },
+        {
+          "date": "05/29/2025_06/01/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:17:58 AM"
+        },
+        {
+          "date": "06/05/2025_06/08/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:05 AM"
+        },
+        {
+          "date": "06/12/2025_06/15/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:12 AM"
+        },
+        {
+          "date": "06/19/2025_06/22/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:18 AM"
+        },
+        {
+          "date": "06/26/2025_06/29/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:24 AM"
+        },
+        {
+          "date": "07/03/2025_07/06/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:31 AM"
+        },
+        {
+          "date": "07/10/2025_07/13/2025",
+          "spotsAvailable": 0,
+          "lastUpdated": "3/7/2025 9:18:38 AM"
+        }
+      ]
+    }
+  ]
+}
