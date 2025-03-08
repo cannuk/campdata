@@ -140,13 +140,13 @@
       "dates": [
         {
           "date": "05/01/2025_05/04/2025",
-          "spotsAvailable": 4,
-          "lastUpdated": "3/8/2025 8:14:31 AM"
+          "spotsAvailable": 3,
+          "lastUpdated": "3/8/2025 9:00:14 AM"
         },
         {
           "date": "05/08/2025_05/11/2025",
-          "spotsAvailable": 4,
-          "lastUpdated": "3/8/2025 8:14:38 AM"
+          "spotsAvailable": 0,
+          "lastUpdated": "3/8/2025 9:00:21 AM"
         },
         {
           "date": "05/15/2025_05/18/2025",
@@ -235,38 +235,38 @@
         },
         {
           "date": "03/13/2025_03/16/2025",
-          "spotsAvailable": 3,
-          "lastUpdated": "3/8/2025 8:13:35 AM"
+          "spotsAvailable": 0,
+          "lastUpdated": "3/8/2025 8:59:18 AM"
         },
         {
           "date": "03/20/2025_03/23/2025",
           "spotsAvailable": 1,
-          "lastUpdated": "3/8/2025 8:13:43 AM"
+          "lastUpdated": "3/8/2025 8:59:26 AM"
         },
         {
           "date": "03/27/2025_03/30/2025",
           "spotsAvailable": 1,
-          "lastUpdated": "3/8/2025 8:13:50 AM"
+          "lastUpdated": "3/8/2025 8:59:34 AM"
         },
         {
           "date": "04/03/2025_04/06/2025",
-          "spotsAvailable": 5,
-          "lastUpdated": "3/8/2025 8:13:58 AM"
+          "spotsAvailable": 1,
+          "lastUpdated": "3/8/2025 8:59:44 AM"
         },
         {
           "date": "04/10/2025_04/13/2025",
-          "spotsAvailable": 1,
-          "lastUpdated": "3/8/2025 8:14:07 AM"
+          "spotsAvailable": 0,
+          "lastUpdated": "3/8/2025 8:59:51 AM"
         },
         {
           "date": "04/17/2025_04/20/2025",
-          "spotsAvailable": 4,
-          "lastUpdated": "3/8/2025 8:14:15 AM"
+          "spotsAvailable": 0,
+          "lastUpdated": "3/8/2025 8:59:59 AM"
         },
         {
           "date": "04/24/2025_04/27/2025",
-          "spotsAvailable": 1,
-          "lastUpdated": "3/8/2025 8:14:22 AM"
+          "spotsAvailable": 0,
+          "lastUpdated": "3/8/2025 9:00:06 AM"
         }
       ]
     },
